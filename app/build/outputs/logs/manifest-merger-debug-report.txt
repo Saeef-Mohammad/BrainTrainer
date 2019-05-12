@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/eeff3ac711c78bec0427ac46d890d15d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/8dbaa768784230ba7db805fd681a3c39/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/62523b990bf6cc9d9c2733f6580e46b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e89f820104d655474ff344d7591131e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a33234ccd78b7ba40db38406e8853ba5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3bc8e9ad13f30934d092985c0aa0db2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4f9b662ebef1ed9514e71eaeeba81eac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/09af5d357975c3e8900f0da3eca8b7c6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/56274ed1263c1cd40cc39875668134f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/eb78a1c96737132dc8b14cc0c8843d1d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/358dd011366a15796a9425198665c154/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/17b94c40408c247ad7e478de5ec37cc3/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/8dbaa768784230ba7db805fd681a3c39/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/8dbaa768784230ba7db805fd681a3c39/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.saeefmd.braintrainer.MainActivity
+ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:12:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/eeff3ac711c78bec0427ac46d890d15d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/eeff3ac711c78bec0427ac46d890d15d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/8dbaa768784230ba7db805fd681a3c39/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/8dbaa768784230ba7db805fd681a3c39/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/62523b990bf6cc9d9c2733f6580e46b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/62523b990bf6cc9d9c2733f6580e46b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e89f820104d655474ff344d7591131e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e89f820104d655474ff344d7591131e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a33234ccd78b7ba40db38406e8853ba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a33234ccd78b7ba40db38406e8853ba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3bc8e9ad13f30934d092985c0aa0db2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3bc8e9ad13f30934d092985c0aa0db2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4f9b662ebef1ed9514e71eaeeba81eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4f9b662ebef1ed9514e71eaeeba81eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/09af5d357975c3e8900f0da3eca8b7c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/saeef/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/09af5d357975c3e8900f0da3eca8b7c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/56274ed1263c1cd40cc39875668134f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/56274ed1263c1cd40cc39875668134f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/eb78a1c96737132dc8b14cc0c8843d1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/eb78a1c96737132dc8b14cc0c8843d1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/358dd011366a15796a9425198665c154/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/358dd011366a15796a9425198665c154/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/17b94c40408c247ad7e478de5ec37cc3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/saeef/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/17b94c40408c247ad7e478de5ec37cc3/AndroidManifest.xml:20:5-44
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+		ADDED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saeef/AndroidStudioProjects/BrainTrainer/app/src/main/AndroidManifest.xml
